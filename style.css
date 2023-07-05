@@ -1,0 +1,13 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+#first{
+    background-color: rgb(53, 53, 100);
+}
+#firstly{
+    margin-left: 300px;
+}
+#firstlly{
+    margin-left: 1000px;
+}
